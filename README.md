@@ -1,2 +1,2 @@
-# Polling_WebApp
+# Pollr_WebApp
 Create and Answer Polls
